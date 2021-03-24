@@ -1,0 +1,27 @@
+_repo: When-Time-Rolled-Back_64881
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Repp, Ed Earl
+    aliases:
+    - Buckner, Bradner
+    - Repp, E. E. (Edward Earl)
+    - Repp, Edward Earl
+    birthdate: 1900
+    deathdate: 1979
+    gutenberg_agent_id: '32417'
+    url: http://www.gutenberg.org/2009/agents/32417
+    wikipedia: https://en.wikipedia.org/wiki/Ed_Earl_Repp
+description: ''
+gutenberg_issued: '2021-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: When Time Rolled Back
+url: http://www.gutenberg.org/ebooks/64881
