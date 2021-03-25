@@ -1,5 +1,8 @@
 _repo: When-Time-Rolled-Back_64881
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64881-h/images/cover.jpg
 creator:
   author:
     agent_name: Repp, Ed Earl
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32417
     wikipedia: https://en.wikipedia.org/wiki/Ed_Earl_Repp
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64881#When-Time-Rolled-Back
 gutenberg_issued: '2021-03-20'
 gutenberg_type: Text
 identifiers:
